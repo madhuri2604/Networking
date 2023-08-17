@@ -1,3 +1,3 @@
 # Networking
-A well prepared question statement with proper documentation inside
+A documentation on how to choose a Network Connectivity product in GCP for various situations.
 
