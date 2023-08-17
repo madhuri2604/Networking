@@ -1,3 +1,3 @@
 # Networking
-A well prepared questioning statement with proper documentation inside
+A well prepared question statement with proper documentation inside
 
